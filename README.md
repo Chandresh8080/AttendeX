@@ -9,7 +9,6 @@ AttendeX is a comprehensive attendance management system designed for both facul
 - [Usage](#usage)
 - [Directory Structure](#directory-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -130,6 +129,3 @@ We welcome contributions to improve AttendeX. Please follow these steps:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
