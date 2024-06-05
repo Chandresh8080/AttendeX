@@ -1,24 +1,25 @@
 # AttendeX
+
 AttendeX is a comprehensive attendance management system designed for both faculty and students. This system includes a Custom API, a Faculty Dashboard, and a Student Application.
 
 ## Table of Contents
-
-- [Overview]
-- [Features]
-- [Installation]
-- [Usage]
-- [Directory Structure]
-- [Contributing])
-- [License]
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Directory Structure](#directory-structure)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Overview
+
 AttendeX aims to streamline the process of attendance tracking and management, providing a seamless experience for educational institutions.
 
 ## Features
 
-- Faculty Dashboard: Allows faculty members to manage and view attendance statistics.
-- Student Application: Enables students to view their attendance records.
-- Custom API: Facilitates integration with Google Maps and other services.
+- **Faculty Dashboard**: Allows faculty members to manage and view attendance statistics.
+- **Student Application**: Enables students to view their attendance records.
+- **Custom API**: Facilitates integration with Google Maps and other services.
 
 ## Installation
 
@@ -31,14 +32,14 @@ AttendeX aims to streamline the process of attendance tracking and management, p
 
 ### Steps
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/yourusername/AttendeX.git
    cd AttendeX
    ```
 
-2. Setup Custom API:
+2. **Setup Custom API:**
 
    Navigate to the `CustomAPI` directory and install the required Python packages:
 
@@ -47,11 +48,11 @@ AttendeX aims to streamline the process of attendance tracking and management, p
    pip install -r requirements.txt
    ```
 
-3. Setup Faculty Dashboard:
+3. **Setup Faculty Dashboard:**
 
    Deploy the PHP files located in the `FacultyDashboard` directory to your web server.
 
-4. Setup Student Application:
+4. **Setup Student Application:**
 
    Navigate to the `StudentApplication` directory and run the Flutter app:
 
@@ -76,6 +77,7 @@ AttendeX aims to streamline the process of attendance tracking and management, p
 
 ## Directory Structure
 
+```
 AttendeX-main/
 ├── CustomAPI/
 │   ├── g-maps-route-api-4a6aac3d364c.json
@@ -116,6 +118,7 @@ AttendeX-main/
         ├── test/
         │   └── widget_test.dart
         └── pubspec.yaml
+```
 
 ## Contributing
 
@@ -130,7 +133,3 @@ We welcome contributions to improve AttendeX. Please follow these steps:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify this `README.md` as per your specific requirements and add any additional information that might be necessary.
