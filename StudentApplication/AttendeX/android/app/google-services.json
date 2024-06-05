@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "432911923898",
+    "firebase_url": "https://attendex-final-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "attendex-final",
+    "storage_bucket": "attendex-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432911923898:android:ee32859a36d5a91bf36083",
+        "android_client_info": {
+          "package_name": "com.example.attendex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiBUP9fke2cKhw5f0RGWah1yE38mKr69w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

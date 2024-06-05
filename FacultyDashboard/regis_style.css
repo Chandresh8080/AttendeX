@@ -1,0 +1,58 @@
+body {
+    font-family: 'Muli', sans-serif;
+    background-color: #f4f4f4;
+    text-align: left;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #333;
+    text-align: center;
+  }
+  
+  .form-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  
+  form {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 35px;
+    width: 400px;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 0);
+  }
+  
+  h2 {
+    margin-top: 0;
+    color: #333;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 90%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "g-maps-route-api",
+  "private_key_id": "4a6aac3d364c3cafa87ceef3cf95e2c4873efb6f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCPJ4hkNi9yV4Sq\nO11bfhT0NwIIWMcu0Cn0Wck+bN3VKC/9v+/7ygEkWUy/u5b9oC1+LrEMEOdwU7m4\nXW0BHMYRZ8Z7XLd6v3f4ASEwQDwErIyw82awn1Q4vxd6jdoF1d4uTX44fnSVFAua\nPgQ4/1tk54vrTdVhraS3ORQ1sh8Vm69pNrfF5oyVJZfPdBvTkHf8w5f3dhTPQ+iP\n9UoBua0Xs9T7oUOqSio9ZqQEMC88KIlJLCvPwldhFvj+3fV+x8jYdaB4ItPCU8+Z\nzVbvpWeWw7dN67jICFzTGXBNHDtxvILtjhk/w7FLihFTzZxoa87aOQV4DWT8P4pK\naK5cce81AgMBAAECggEAAIwrfrahAn7zMvN8gpe+MhuZFmRrM/Kii8dheFZSQuPJ\nyzQAvFB5e09xdl+b+ZGzRYLy375GJFfYTgGNeS5IU6i3SaGBJ3xeqRmCrFHn6Nyq\nwm0r52EJ9sLvBA5RgdQ06q3BMytzUV6nl19wBLJ1VwghBjVgq475Ik+a6YRU5MWX\nieouRA38l/Gw2Ky2k2DrThHiVUj2aCjAEywGgZ5lHYUVUCQ+Fyqp9sPqVL4Ncrg+\nHwjA/ph3ySwlG56J5X6Jt7W9Nq3eHrlsvHasDALNKsdST+e+fQMAkLkbqoViQF1h\npB/V8WN6KVEcs9IoodHMSYDXujLcvV70GtYZQfBSAQKBgQDBhrOVJR4j11cq07He\nd+H95nybrQ/zFuRljSh7Lrw3MN5wMvF1kgXyuueqKFvJz7CWTZkud1HPQ1nMYi8G\nZfKj4/nVH95J9a6mCgpIdzsdxCCJU15Qsra4Py6ex/Vn0n1BhhHbUC54VaWOHvdC\nQRJs1cAySNNcVv70G6rT/HXxvQKBgQC9Xghlyrzag6TEcKJTDTf918lMHi6d2eoq\nlGZT9By1/RlPG4YJQFjZdFJIKmqrcYzgqEwm3GSRVaOyTLQxyWkDVxS5NynZiQZk\n6OB+HP7fW6uY+y0BLwfcsCprxXDubpnNe8OpnydiXMMhkpic5jqiuyXdsgdfjmqn\nayEpUMF+2QKBgQC2CUy3CBkXwaE+qa5wAvhS6hFgJiQQlwHz/BmN9WIZ0CAMDf9O\nhjKOJf1v81KTvIbwesGSEa6kdUfslpaBQDhCrVj9fmKL00ua52rQy0aSM0AfrInV\nAqYZHWVu+cv/AuHLVp9JWly72GRIERyn96mrMkz9f79A5pwfZj8D9D/FSQKBgBWL\nPSlXh2TU1UoEBnOsbVJT2nLufB85S4rMl1e1zg5mXRrC5tzmlTUoJrRPHxOiN4TX\noNJLAKYIODdwwo9neqsGnTT1Ma2uCSwx0liGs/h1VXByIwyfbSWOZUUdkVuO+bCH\nBBuoH7LxGsIXC4XOK52X7Rbryir06O1jIsKwjVMBAoGBAIqJr0PJ52skNML/zeqm\ngXs2NLLlZRo1MUKYKxzbs3UAvKawtDcU6aR4Z4BPoElfzDqHDyF172ynaLVhMZyv\nYYV45dcZvd5NP7RtZVcd07ifgasVw7jsTIP8PT0JUF+M2C3u5zz3qNkAL8T5vtRt\nUK3LezbEVIuz4B8BrY8hH84A\n-----END PRIVATE KEY-----\n",
+  "client_email": "yagnik0303@g-maps-route-api.iam.gserviceaccount.com",
+  "client_id": "106830075775453955358",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yagnik0303%40g-maps-route-api.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
